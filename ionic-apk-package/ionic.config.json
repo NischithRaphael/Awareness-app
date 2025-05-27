@@ -1,0 +1,8 @@
+{
+  "name": "Awareness",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom",
+  "id": "awareness-app"
+}
