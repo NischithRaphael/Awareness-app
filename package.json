@@ -1,0 +1,17 @@
+{
+  "name": "awareness-app",
+  "version": "1.0.0",
+  "description": "Awareness - Consciousness Transformation App",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Build completed'",
+    "start": "echo 'App ready'"
+  },
+  "dependencies": {
+    "@capacitor/core": "^6.0.0",
+    "@capacitor/android": "^6.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.0.0"
+  }
+}
